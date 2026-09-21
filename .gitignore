@@ -1,0 +1,30 @@
+# Obsidian 工作区与缓存
+.obsidian/
+
+# 常见原始附件与导出物
+*.mp3
+*.wav
+*.m4a
+*.mp4
+*.mov
+*.avi
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.zip
+*.7z
+*.rar
+
+# 临时文件
+*.tmp
+*.bak
+~$*
