@@ -87,4 +87,4 @@ pwsh -NoProfile -File scripts/check_release.ps1 -RepositoryPath .
 
 ## 许可证
 
-许可证在首次公开发布前由维护者确认并补充。
+本项目采用 [MIT License](LICENSE)，版权署名为 LUOZHE。
